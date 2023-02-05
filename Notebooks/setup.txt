@@ -1,0 +1,10 @@
+conda install IPython==6.2.1
+conda install pandas==0.22.0
+conda install scikit-learn==0.19.1
+conda install statsmodels==0.8.0
+conda install patsy==0.5.0
+conda install matplotlib==2.1.1
+conda install seaborn==0.8.1
+conda install scipy==1.0.0
+conda install pydot==1.2.3
+conda install python-glmnet==2.0.0
